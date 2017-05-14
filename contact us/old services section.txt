@@ -1,0 +1,44 @@
+<!-- <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Services</h2>
+                    <h3 class="section-subheading text-muted">We provide the following services you can hire us for</h3>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
+                    </span>
+<<<<<<< HEAD
+                    <h4 class="service-heading">Commercial Websites</h4>
+                    <p class="text-muted">We build great  personal and industry websites to suit your needs! </p>
+=======
+                    <h4 class="service-heading">Web Solutions</h4>
+                    <p class="text-muted">We provide the best web solutions, from static webpages and eCommerce sites to blogging engines.</p>
+>>>>>>> origin/master
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-code fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Development Support</h4>
+                    <p class="text-muted">Got a problem? No worries! Contact us and we will help until all bugs, glitches, etc. are fixed, irrespective of the time of the day.</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-gears fa-stack-1x fa-inverse"></i>
+                    </span>
+<<<<<<< HEAD
+                    <h4 class="service-heading">Null Bug Guarantee</h4>
+                    <p class="text-muted">We provide Null bug guarantee with a sense that you won't face any bugs and if you happen to experience one, we shall fix it for FREE!  </p>
+                </div>
+            </div>
+        </div>
+    </section> -->
+	<!-- Services Section -->
+    

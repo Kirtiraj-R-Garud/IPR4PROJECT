@@ -1,0 +1,93 @@
+<div class="s-12 m-12 l-8 l-offset-2">
+<br><br>
+                  <div class="s-12 l-4">
+                    <div class="news-date1">
+                    <center> <img class="img" src="img/4.jpg" style="height:270px;width:248px"></center>
+                    </div>
+                  </div>
+
+                  <div class="s-12 l-8">
+                    <div class="news-text1">
+                      <h4><b><u>Mr. Dnyaneshwar Kamble</u></b> </h4>
+                      <p>M.Tech from IIT Madras.
+       18 years work experience within Tata Group  across  domains Telecom, Automation, Smart City, Business Intelligence, Sustainability and Utilities.
+       Worked in US, Canada and UK Geographies.
+       New Business Unit 'Ecological Sustainability ' for TCS.
+       In 2013, Part of Tata group level committee for targeting global water business.
+      Part of CMC MD's office team and drove top 100 strategic accounts.
+       IEEE Bombay Section Board Member from 2012.
+     On Department Advisory board of Thakur, Vidyalankar, Rajiv Gandhi Institute in 2016-17.
+      Mentoring for Startup's  DOBOZ.
+      Executive board member of NGO's  like'One life Alliance India' working for sustainability and peace ,  Vikas Sahyog Prathisthan working for rural development.
+</p>
+                    </div>
+                  </div>  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+mmmm side by side mmmmm
+
+<div class="line">
+			<br><br>
+              <div class="margin">
+ <div class="s-12 m-12 l-6">
+<br><br>
+                  <div class="s-12 l-5">
+                    <div class="news-date1">
+                    <center> <img class="img" src="img/4.jpg" style="height:280px;width:220px"></center>
+                    </div>
+                  </div>
+
+                  <div class="s-12 l-7">
+                    <div class="news-text1">
+                      <h4><b><u>Mr. Dnyaneshwar Kamble</u></b> </h4>
+                      <p>M.Tech from IIT Madras.
+       18 years work experience within Tata Group across domains Telecom, Automation, Smart City, Business Intelligence, Sustainability & Utilities.
+       Worked in US, Canada and UK Geographies.
+       New Business Unit 'Ecological Sustainability' for TCS.
+      Part of CMC MD's office team and drove top 100 strategic accounts.
+       IEEE Bombay Section Board Member from 2012.
+     On Department Advisory board of Thakur, Vidyalankar, Rajiv Gandhi Institute in 2016-17.
+      Mentor for Startups  DOBOZ.
+      Executive board member of NGO's  like 'One life Alliance India' working for sustainability and peace ,  Vikas Sahyog Prathisthan working for rural development.</p>
+                    </div>
+                  </div>  
+				  
+                </div> 				<div class="s-12 m-12 l-6">
+<br><br>
+                  <div class="s-12 l-5">
+                    <div class="news-date1">
+                     <center> <img class="img" src="img/6.jpg" style="height:280px;width:220px"></center>
+                    </div>
+                  </div>
+
+                  <div class="s-12 l-7">
+                    <div class="news-text1">
+                      <h4><b><u>Mr. Pratik Baheti </u></b> </h4>
+                      <p> B.E. Electronics Engineering from RCOEM, Nagpur. IEEE RCOEM-SB Chair from May 2016 - April 2017 RCOEM, Nagpur.  
+</p>
+                    </div>
+                  </div>  
+				  
+                </div> 
+
+</div></div>
+
+
+
+				  
+                </div> 

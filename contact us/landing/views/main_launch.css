@@ -1,0 +1,64 @@
+@import url(http://fonts.googleapis.com/css?family=Ubuntu:400,500);
+
+*{
+	padding:0;
+	margin:0;
+}
+
+body{
+	font-family: "Ubuntu", sans-serif;
+	font-size: 100%;
+	background-image:url("../images/IOB1.jpg");
+}
+
+a{
+	text-decoration: none;
+	color:#666;
+}
+	a:hover{
+		color:#999;
+		color:#999;
+	}
+p{
+	line-height: 2em;
+	margin:0 0 20px;
+	text-align: center;
+	
+}
+
+.wrap_img{
+	 background-color: "transparent";
+	}
+
+.wrap{
+	max-width: 600px;
+	margin:50px auto;
+	
+
+	}
+
+.type-wrap{
+	margin:0px auto;
+	padding:20px;
+	background:"transparent"; 
+	border-radius:0px;
+	border:#CCC 0px solid;
+}
+
+.links{
+	margin:20px 0;
+	font-size: 0.75em;
+	text-align: center;
+}
+.launch_btn{
+	margin: 0px 0;
+	font-size: 1.5em;
+	text-align: center;
+	background-color: white;
+	max-width: 100px;
+	text-align: center;
+	
+	
+	
+	
+}

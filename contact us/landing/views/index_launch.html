@@ -1,0 +1,125 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+  <meta charset="UTF-8" />
+  <title>RD - Landing Page</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="css/style.css" />
+  <link href='http://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
+  <!-- remember, jQuery is completely optional -->
+  <!-- <script type='text/javascript' src='js/jquery-1.11.1.min.js'></script> -->
+  <script type='text/javascript' src='../jquery.particleground.js'></script>
+  <script type='text/javascript' src='js/demo.js'></script>
+  <!-- &copy; WEB SUPPORT: RAINBOW DIMENSIONS- A CREATIVE HUB -->
+	<link href="main_launch.css" rel="stylesheet"/>
+	<!-- Get jQuery -->
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+    <script src="js/typed.js" type="text/javascript"></script>
+	
+    <script>
+    $(function(){
+
+        $("#typed").typed({
+            // strings: ["Typed.js is a <strong>jQuery</strong> plugin.", "It <em>types</em> out sentences.", "And then deletes them.", "Try it out!"],
+            stringsElement: $('#typed-strings'),
+            typeSpeed: 30,
+            backDelay: 500,
+            loop: false,
+            contentType: 'html', // or text
+            // defaults to false for infinite loop
+            loopCount: false,
+            callback: function(){ foo(); },
+            resetCallback: function() { newTyped(); }
+        });
+
+        $(".reset").click(function(){
+            $("#typed").typed('reset');
+        });
+
+    });
+
+    function newTyped(){ /* A new typed object */ }
+
+    function foo(){ console.log("Callback"); }
+
+    </script>
+
+    <style>
+        /* code for animated blinking cursor */
+        .typed-cursor{
+            opacity: 1;
+            font-weight: 100;
+            -webkit-animation: blink 0.7s infinite;
+            -moz-animation: blink 0.7s infinite;
+            -ms-animation: blink 0.7s infinite;
+            -o-animation: blink 0.7s infinite;
+            animation: blink 0.7s infinite;
+        }
+        @-keyframes blink{
+            0% { opacity:1; }
+            50% { opacity:0; }
+            100% { opacity:1; }
+        }
+        @-webkit-keyframes blink{
+            0% { opacity:1; }
+            50% { opacity:0; }
+            100% { opacity:1; }
+        }
+        @-moz-keyframes blink{
+            0% { opacity:1; }
+            50% { opacity:0; }
+            100% { opacity:1; }
+        }
+        @-ms-keyframes blink{
+            0% { opacity:1; }
+            50% { opacity:0; }
+            100% { opacity:1; }
+        }
+        @-o-keyframes blink{
+            0% { opacity:1; }
+            50% { opacity:0; }
+            100% { opacity:1; }
+        }
+    </style>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+  </head>
+
+<body>
+
+<div id="particles">
+  <div id="intro">
+     <h1>RAINBOW DIMENSIONS</h1> 
+	<div class="wrap">
+        <!-- <h1 class="h2">The Internet of &nbsp; BRAINS</h1> -->
+                    <embed src="E://GitHub/rainbowdimensions.github.io/landing/views/assets/music/digi007.mp3" start="true" loop="true"
+					       width="2" height="0">
+					</embed>			
+        
+		<div class="type-wrap">
+            <div id="typed-strings">
+                <span><font color = "Red" align ="center"><h3>Your Magic Moment </h3><strong><h3>A Creative Hub!</h3></strong><font color = "yellow" align= "center"><h3>Rainbow Dimensions</h3></font></span>
+				<font color = "yellow"><h3>Complete Web Solutions <em>promoting Internet of Brains...</em> Stay Tuned!!</h3></font>
+                <font color = "white"><font align="center"><!--<li>--><h3>Incubated at :<br>G.H.Raisoni Incubation Center Nagpur</h3></font><!-- </li> --><font color="lime"><li><h3>Welcome to the next gen Digital India surprise!!</h3></li></b>
+            </div>
+          <span id="typed" style="white-space:pre;"></span> 
+        </div>
+
+</div>
+	<a href="..\..\index_main.html"	class="btn">WELCOME!</a>
+	</div>
+	
+    
+	</div>
+</div>
+
+<script>
+$(document).keypress(function(e) {
+if(e.which == 13) {
+    window.location.href="../../index_main.html";
+}
+});
+</script>
+
+
+</body>
+</html>
